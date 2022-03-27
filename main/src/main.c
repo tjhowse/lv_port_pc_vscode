@@ -20,7 +20,7 @@
 #include "lv_drivers/indev/mousewheel.h"
 #include "lv_examples/lv_examples.h"
 
-#include "/mnt/d/devstuff/laser_safety_controller/code/laser_safety_controller/gui.h"
+#include "../../../laser_safety_controller/code/laser_safety_controller/gui.h"
 
 /*********************
  *      DEFINES
