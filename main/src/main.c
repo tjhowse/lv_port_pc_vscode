@@ -18,7 +18,7 @@
 #include "lv_drivers/indev/mouse.h"
 #include "lv_drivers/indev/keyboard.h"
 #include "lv_drivers/indev/mousewheel.h"
-#include "lv_examples/lv_examples.h"
+// #include "lv_examples/lv_examples.h"
 
 #include "../../../laser_safety_controller/code/laser_safety_controller/gui.h"
 
