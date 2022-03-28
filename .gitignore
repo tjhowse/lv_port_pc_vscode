@@ -10,4 +10,3 @@ ui/
 # VSCode
 !.vscode/
 !.vscode/*
-.vscode/c_cpp_properties.json .vscode/extensions.json .vscode/launch.json .vscode/settings.json .vscode/tasks.json
